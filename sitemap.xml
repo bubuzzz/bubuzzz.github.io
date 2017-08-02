@@ -8,17 +8,17 @@
   </url>
   
   <url>
+    <loc>https://bubuzzz.github.io/books/the-one-straw-revolution/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bubuzzz.github.io/blog/unpredictable-future/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bubuzzz.github.io/books/future/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bubuzzz.github.io/books/the-one-straw-revolution/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,6 +49,18 @@
   </url>
   
   <url>
+    <loc>https://bubuzzz.github.io/tags/book/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bubuzzz.github.io/categories/book-review/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bubuzzz.github.io/books/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -56,6 +68,7 @@
   
   <url>
     <loc>https://bubuzzz.github.io/categories/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
