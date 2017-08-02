@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Is math neccessary for programmer ?</title>
+      <link>https://bubuzzz.github.io/blog/is-math-neccessary-for-programmer-/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bubuzzz.github.io/blog/is-math-neccessary-for-programmer-/</guid>
+      <description>I wondered this question several times in the first stage of my career</description>
+    </item>
+    
+    <item>
       <title>A small project example : add yours !</title>
       <link>https://bubuzzz.github.io/projects/small-project/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -47,7 +56,8 @@
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/about/</guid>
-      <description>A software engineer, was born and raised in Vietnam, but moved to Melbourne several years ago. I spend most of my time in front of computer to hack around all the latest technologies. My current favourite including react, react-native, node.js and java.</description>
+      <description>A software engineer, was born and raised in Vietnam, but moved to Melbourne several years ago.
+I spend most of my time in front of computer to hack around all the latest technologies. My current favourite including react, react-native, node.js and java.</description>
     </item>
     
     <item>
