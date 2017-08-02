@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://bubuzzz.github.io/blog/hello-hugo/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bubuzzz.github.io/projects/small-project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -75,6 +80,18 @@
   
   <url>
     <loc>https://bubuzzz.github.io/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bubuzzz.github.io/categories/life/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bubuzzz.github.io/tags/life/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

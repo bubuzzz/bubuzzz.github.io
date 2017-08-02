@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Thai Tran</title>
-    <link>https://bubuzzz.github.io/blog/</link>
-    <description>Recent content in Blog on Thai Tran</description>
+    <title>Life on Thai Tran</title>
+    <link>https://bubuzzz.github.io/tags/life/</link>
+    <description>Recent content in Life on Thai Tran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2015 Thai Tran</copyright>
     <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bubuzzz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bubuzzz.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://bubuzzz.github.io/blog/hello-hugo/</guid>
       <description>[place holder]</description>
-    </item>
-    
-    <item>
-      <title>Hello Hugo</title>
-      <link>https://bubuzzz.github.io/blog/hello-hugo/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://bubuzzz.github.io/blog/hello-hugo/</guid>
-      <description>Switch to Hugo from now on</description>
     </item>
     
   </channel>
