@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2015 Thai Tran</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bubuzzz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Development</title>
       <link>https://bubuzzz.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/tags/development/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Go</title>
       <link>https://bubuzzz.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/tags/go/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Golang</title>
       <link>https://bubuzzz.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/tags/golang/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Hugo</title>
       <link>https://bubuzzz.github.io/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/tags/hugo/</guid>
       <description></description>
@@ -54,24 +54,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>https://bubuzzz.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://bubuzzz.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://bubuzzz.github.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://bubuzzz.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
