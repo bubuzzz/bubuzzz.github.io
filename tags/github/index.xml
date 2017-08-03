@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming on Thai Tran</title>
-    <link>https://bubuzzz.github.io/categories/programming/</link>
-    <description>Recent content in Programming on Thai Tran</description>
+    <title>Github on Thai Tran</title>
+    <link>https://bubuzzz.github.io/tags/github/</link>
+    <description>Recent content in Github on Thai Tran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2015 Thai Tran</copyright>
     <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bubuzzz.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bubuzzz.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>https://bubuzzz.github.io/blog/funny-github/</guid>
       <description>Sometimes browsing github makes you laugh a lot instead of reading Trump &amp;rsquo;s tweet
 And the issue list is even funnier</description>
-    </item>
-    
-    <item>
-      <title>Is math neccessary for programmer ?</title>
-      <link>https://bubuzzz.github.io/blog/is-math-neccessary-for-programmer-/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://bubuzzz.github.io/blog/is-math-neccessary-for-programmer-/</guid>
-      <description>I wondered this question several times in the first stage of my career</description>
     </item>
     
   </channel>

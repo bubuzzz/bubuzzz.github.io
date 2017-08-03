@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2015 Thai Tran</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bubuzzz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Funny github</title>
+      <link>https://bubuzzz.github.io/blog/funny-github/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bubuzzz.github.io/blog/funny-github/</guid>
+      <description>Sometimes browsing github makes you laugh a lot instead of reading Trump &amp;rsquo;s tweet
+And the issue list is even funnier</description>
+    </item>
     
     <item>
       <title>Hello Hugo</title>
