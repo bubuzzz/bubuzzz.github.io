@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2015 Thai Tran</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bubuzzz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Funny github</title>
-      <link>https://bubuzzz.github.io/blog/funny-github/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://bubuzzz.github.io/blog/funny-github/</guid>
-      <description>Sometimes browsing github makes you laugh a lot instead of reading Trump &amp;rsquo;s tweet
-And the issue list is even funnier</description>
-    </item>
     
     <item>
       <title>Hello Hugo</title>
@@ -37,16 +27,8 @@ And the issue list is even funnier</description>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/blog/unpredictable-future/</guid>
-      <description>[place holder]</description>
-    </item>
-    
-    <item>
-      <title>Is math neccessary for programmer ?</title>
-      <link>https://bubuzzz.github.io/blog/is-math-neccessary-for-programmer-/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://bubuzzz.github.io/blog/is-math-neccessary-for-programmer-/</guid>
-      <description>[place holder]</description>
+      <description>2017 was a bit weird since I had to involve to many things. Things started to be a mess and became unpredictable. Oh, a guy asked me: You can predict the future? So this is the answer: Yes (and hopefully you can read it here).
+My current situation: Working full time for a company, working partime with a good mate, preparing my own startup up and running in the end of this year while staying in a foreign country, under the rush of changing my nationality before next year.</description>
     </item>
     
   </channel>
