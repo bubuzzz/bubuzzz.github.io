@@ -1,3 +1,6 @@
+body {
+    background: url('/img/bg.png');
+}
 section.header .container .logo {
     max-width: 100px;
 }
