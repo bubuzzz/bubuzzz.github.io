@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bubuzzz.github.io/blog/vim-tips/</loc>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bubuzzz.github.io/blog/hello-hugo/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +19,6 @@
   
   <url>
     <loc>https://bubuzzz.github.io/blog/unpredictable-future/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bubuzzz.github.io/blog/vim-tips/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,7 +39,7 @@
   
   <url>
     <loc>https://bubuzzz.github.io/blog/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,7 +112,7 @@
   
   <url>
     <loc>https://bubuzzz.github.io/tags/programming/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -136,19 +136,19 @@
   
   <url>
     <loc>https://bubuzzz.github.io/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bubuzzz.github.io/tags/vim/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bubuzzz.github.io/categories/vim/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

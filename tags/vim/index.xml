@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2015 Thai Tran</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bubuzzz.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Vim Tips</title>
       <link>https://bubuzzz.github.io/blog/vim-tips/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/blog/vim-tips/</guid>
       <description>I have been using vim / vim shortcut for nearly everything (Intellij, tmux, chrome browser). These are several tips that I used for everyday &amp;rsquo;s action. My vim configuration is here https://github.com/bubuzzz/my-vim. I cannot remember which plugins that makes the below shortcut effective, thus please checkout my configuration before following the tips
