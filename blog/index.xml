@@ -31,5 +31,15 @@
 My current situation: Working full time for a company, working partime with a good mate, preparing my own startup up and running in the end of this year while staying in a foreign country, under the rush of changing my nationality before next year.</description>
     </item>
     
+    <item>
+      <title>Vim Tips</title>
+      <link>https://bubuzzz.github.io/blog/vim-tips/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bubuzzz.github.io/blog/vim-tips/</guid>
+      <description>I have been using vim / vim shortcut for nearly everything (Intellij, tmux, chrome browser). These are several tips that I used for everyday &amp;rsquo;s action
+ ^ to jump to beginning of the line $ to jump to the end of the line dd to delete the line (use it too much and this makes the D on my mac keyboard is faded away already) w to jump forward to each word b to jump backward each word while saving a file, you can send the vim buffer as a parameter to a filter, which actually a bash command in order to execute.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -14,9 +14,9 @@
 <meta property="og:site_name" content="Thai Tran" />
 <meta property="og:locale" content="nn_NO" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://bubuzzz.github.io/blog/" />
-<meta property="og:title" content="Blog" />
-<meta property="twitter:title" content="Blog">
+<meta property="og:url" content="https://bubuzzz.github.io/blog/vim-tips/" />
+<meta property="og:title" content="Vim Tips" />
+<meta property="twitter:title" content="Vim Tips">
 
     <meta property="og:image" content="https://bubuzzz.github.io/img/banner.png">
     <meta property="twitter:card" content="summary_large_image">
@@ -27,10 +27,10 @@
 <title>
 
 
-     Thai Tran - Blog 
+     Thai Tran - Vim Tips 
 
 </title>
-<link rel="canonical" href="https://bubuzzz.github.io/blog/">
+<link rel="canonical" href="https://bubuzzz.github.io/blog/vim-tips/">
 
 
 <style media="screen">
@@ -1000,8 +1000,6 @@ section.main .content .markdown pre, section.main .content .markdown pre code {
 
 
 
-  <link href="https://bubuzzz.github.io/blog/index.xml" rel="alternate" type="application/rss+xml" title="Thai Tran" />
-
 
 </head>
 
@@ -1009,7 +1007,7 @@ section.main .content .markdown pre, section.main .content .markdown pre code {
 <body>
 
 
-<section class="header header-home">
+<section class="header">
 
     <div class="container">
         <a href="https://bubuzzz.github.io/"><img class="logo" src="https://bubuzzz.github.io/img/logo.png" alt="logo" /></a>
@@ -1052,39 +1050,106 @@ section.main .content .markdown pre, section.main .content .markdown pre code {
     </div>
 </section>
 
-<section class="main">
+
+<section class="main post non-narrow zero-top-spacing">
     <div class="container">
         <div class="content">
-            <div class="posts">
-                <div class="page-heading">Blog</div>
-                <ul>
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    Vim Tips
+
+</div>
+
+                </div>
+                <div class="meta">
+                    <div class="date" title="Wed Aug 2 2017 00:00:00 UTC">Aug 2, 2017</div>
                     
-                        <li class="groupby">Aug, 2017</li>
-                        
-                            <li class="post-item">
-    <span class="meta">Aug 2, 2017</span>
-    <a href="https://bubuzzz.github.io/blog/vim-tips/"><span>Vim Tips</span></a>
-</li>
-
-                        
-                            <li class="post-item">
-    <span class="meta">Aug 2, 2017</span>
-    <a href="https://bubuzzz.github.io/blog/unpredictable-future/"><span>Unpredictable Future</span></a>
-</li>
-
-                        
-                            <li class="post-item">
-    <span class="meta">Aug 2, 2017</span>
-    <a href="https://bubuzzz.github.io/blog/hello-hugo/"><span>Hello Hugo</span></a>
-</li>
-
                         
                     
-                </ul>
+                    <div class="reading-time"><div class="middot"></div>1 minute read</div>
+                    <div class="tags">
+                        <ul>
+                          
+                            <div class="middot"></div>
+                            <li><a href="https://bubuzzz.github.io/tags/vim">vim</a> </li>
+                          
+                            <div class="middot"></div>
+                            <li><a href="https://bubuzzz.github.io/tags/programming">programming</a> </li>
+                          
+                        </ul>
+                    </div>
+                    <div class="tags">
+                        <ul>
+                          
+                          
+                        </ul>
+                    </div>
+                </div>
             </div>
+            <div class="markdown">
+                
+    
+    <p>I have been using vim / vim shortcut for nearly everything (Intellij, tmux, chrome browser). These are several tips that I used for everyday &rsquo;s action</p>
+
+<ol>
+<li>^ to jump to beginning of the line</li>
+<li>$ to jump to the end of the line</li>
+<li>dd to delete the line (use it too much and this makes the D on my mac keyboard is faded away already)</li>
+<li>w to jump forward to each word</li>
+<li>b to jump backward each word</li>
+<li>while saving a file, you can send the vim buffer as a parameter to a filter, which actually a bash command in order to execute. In the other word, you can execute a python script INSIDE vim using this tip</li>
+</ol>
+
+<p><figure class="progressive"><img class="progressive__img progressive--not-loaded" data-progressive="https://bubuzzz.github.io/static/img/vim-tips-6.png" src="https://bubuzzz.github.io/static/img/low/vim-tips-6.png" alt="Example image" /></p></figure>
+
+<p>My vim configuration is here <a href="https://github.com/bubuzzz/my-vim">https://github.com/bubuzzz/my-vim</a>.</p>
+
+
+                <br>
+            </div>
+            
+            
+                <div class="navigation">
+                    
+                    <div style="width: 100%;"></div>
+                    
+                    <div>
+                        <a href="https://bubuzzz.github.io/blog/unpredictable-future/">Unpredictable Future</a>
+                        <img class="icon" src="https://bubuzzz.github.io/img/next.svg" alt="next" />
+                    </div>
+                    
+                </div>
+            
+            <br>
+            <div class="disqus">
+                <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "bubuzzz" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+            
         </div>
     </div>
 </section>
+
 <section class="footer">
     <div class="container">
 

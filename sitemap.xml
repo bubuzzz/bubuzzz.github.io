@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://bubuzzz.github.io/blog/vim-tips/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bubuzzz.github.io/projects/small-project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -106,6 +111,12 @@
   </url>
   
   <url>
+    <loc>https://bubuzzz.github.io/tags/programming/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bubuzzz.github.io/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -125,6 +136,18 @@
   
   <url>
     <loc>https://bubuzzz.github.io/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bubuzzz.github.io/tags/vim/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bubuzzz.github.io/categories/vim/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

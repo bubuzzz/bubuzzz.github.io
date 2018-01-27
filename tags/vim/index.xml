@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim on Thai Tran</title>
+    <link>https://bubuzzz.github.io/tags/vim/</link>
+    <description>Recent content in Vim on Thai Tran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2015 Thai Tran</copyright>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bubuzzz.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vim Tips</title>
+      <link>https://bubuzzz.github.io/blog/vim-tips/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bubuzzz.github.io/blog/vim-tips/</guid>
+      <description>I have been using vim / vim shortcut for nearly everything (Intellij, tmux, chrome browser). These are several tips that I used for everyday &amp;rsquo;s action
+ ^ to jump to beginning of the line $ to jump to the end of the line dd to delete the line (use it too much and this makes the D on my mac keyboard is faded away already) w to jump forward to each word b to jump backward each word while saving a file, you can send the vim buffer as a parameter to a filter, which actually a bash command in order to execute.</description>
+    </item>
+    
+  </channel>
+</rss>
