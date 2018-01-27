@@ -37,8 +37,8 @@ My current situation: Working full time for a company, working partime with a go
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://bubuzzz.github.io/blog/vim-tips/</guid>
-      <description>I have been using vim / vim shortcut for nearly everything (Intellij, tmux, chrome browser). These are several tips that I used for everyday &amp;rsquo;s action
- ^ to jump to beginning of the line $ to jump to the end of the line dd to delete the line (use it too much and this makes the D on my mac keyboard is faded away already) w to jump forward to each word b to jump backward each word while saving a file, you can send the vim buffer as a parameter to a filter, which actually a bash command in order to execute.</description>
+      <description>I have been using vim / vim shortcut for nearly everything (Intellij, tmux, chrome browser). These are several tips that I used for everyday &amp;rsquo;s action. My vim configuration is here https://github.com/bubuzzz/my-vim. I cannot remember which plugins that makes the below shortcut effective, thus please checkout my configuration before following the tips
+ ^ to jump to beginning of the line. $ to jump to the end of the line. dd to delete the line (use it too much and this makes the D on my mac keyboard is faded away already).</description>
     </item>
     
   </channel>
